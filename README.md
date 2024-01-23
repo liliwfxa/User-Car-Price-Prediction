@@ -64,6 +64,25 @@ Tapping into the vast $138 billion US used car market, this project seeks to ref
 ## Approach
 Employing decision trees and random forest models, the project aims to predict accurate car valuations, benefiting both sellers and buyers in the dynamic used car market.
 
+##  Business Question/Task
+### Market Analysis and Trend Prediction:
+
+How can machine learning be used to analyze current market trends in used car prices, and predict future trends based on historical data, thereby aiding investors and dealerships in making informed decisions?
+
+### Personalized Price Recommendations:
+
+Can a machine learning model provide personalized price recommendations for individual sellers based on their car's characteristics, location, and current market conditions, to optimize their chances of a successful and profitable sale?
+
+### Dynamic Pricing for Online Platforms:
+
+How can an algorithm dynamically adjust car listing prices on an online platform, based on real-time market data and individual car features, to enhance sales and customer satisfaction?
+
+### Identifying Under- or Overpriced Listings:
+
+Can a predictive model be designed to flag potentially under- or overpriced car listings for further review, helping online marketplaces maintain pricing integrity and protect consumers?
+
+
+
 
 ## Project Overview:
 
