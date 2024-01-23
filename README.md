@@ -5,6 +5,24 @@ Context: Tapping into the vast $138 billion US used car market, this project see
 Approach: Employing decision trees and random forest models, the project aims to predict accurate car valuations, benefiting both sellers and buyers in the dynamic used car market.
 
 
+Project Overview:
+1. Data Aquisition
+
+2. Data Introduction
+
+3. Business Question/TasK
+
+4. Data Cleaning
+
+5. Data exploration/vasulization
+
+6. Data Modeling
+
+7. Models Evaluation
+
+8. Top factors Impacting Pricing
+
+9. Apply the Model to the Real World Situation
 
 
 2. Data Introduction
