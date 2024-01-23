@@ -1,3 +1,6 @@
+# Userd Car Pricing Analysis
+![userd car](https://github.com/liliwfxa/User-Car-Price-Prediction/assets/154775725/3495683e-4ef8-4448-ba6c-e7bc07d768ba)
+
 Data Source: Over 1GB from Kaggle's Used Cars Dataset, targeting listing prices.
 
 Context: Tapping into the vast $138 billion US used car market, this project seeks to refine pricing strategies for sellers and guide buyers.
